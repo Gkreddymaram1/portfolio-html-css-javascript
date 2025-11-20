@@ -1,0 +1,16 @@
+*{
+color: rgb(128, 122, 0);
+margin: 0%;
+}
+ 
+    .container {
+      display: flex;
+    }
+    .left {
+      width: 20%;
+    }
+    .right {
+      width: 80%;
+      padding: 20px;
+    }
+ 
