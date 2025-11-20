@@ -1,0 +1,23 @@
+*{
+color: red;
+
+}
+
+
+        .container {
+            display: flex;
+        }
+        .left {
+            width: 20%;
+        }
+        .right {
+            width: 80%;
+            padding: 20px;
+        }
+        form {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            width: 300px;
+        }
+  
