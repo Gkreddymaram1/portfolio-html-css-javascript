@@ -1,0 +1,19 @@
+*{
+
+color: rgb(199, 187, 20);
+
+
+}
+
+ .container {
+            display: flex;
+        }
+        .left {
+            width: 20%;
+        }
+        .right {
+            width: 80%;
+            padding: 20px;
+        }
+
+        
